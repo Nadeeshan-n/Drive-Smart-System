@@ -58,4 +58,4 @@ The system focuses on **internal company management** rather than online reserva
 ##  How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/Nadeeshan-n/Drive-Smart-System.git
